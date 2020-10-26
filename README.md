@@ -5,7 +5,7 @@
 _ リスト２
 _ リスト３
 
-1.番号付き１
-2.
+1. 番号付き１
+2. 番号付き２
 
 https://qiita.com/kamorits/items/6f342da395ad57468ae3
